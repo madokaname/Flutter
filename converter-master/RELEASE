@@ -1,0 +1,14 @@
+0.6.10+10
+- migrated to use development provisioning profile with specified devices
+0.6.9+9
+- configured iOS CI for Firebase App Distribution
+0.6.8+8
+- transformed main CI to Android only
+
+0.6.7+7
+- added initial GitHub actions support
+- added building apk with GitHub Actions
+- added Firebase app distribution via GitHub Actions
+- fixed build.gradle for work on GitHub actions and CodeMagic CIs
+- added keys: debug and release into the repo
+
